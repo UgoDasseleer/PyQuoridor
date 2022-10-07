@@ -8,3 +8,10 @@ Just run main.py
 ```
 python3 main.py
 ```
+
+# Rules
+The rules are simple, you can play against an AI or against another player.
+
+You have to go to the other side of the board. You can block the enemy's progression by adding walls.
+
+The first in the other side wins.
